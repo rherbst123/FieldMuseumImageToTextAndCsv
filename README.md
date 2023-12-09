@@ -2,7 +2,7 @@
 A Python Script To Take A folder of images and turn them into a text file and categorize into a csv file.
 
 Setup:
-Necessary imports include the openai Api, Pandas and Tesseract. You will also need a compiler for python. Visual Studio code and the python extension is preferred. 
+Necessary imports include the openai Api, Pandas and Tesseract. You will also need a compiler for python. Visual Studio code and the python extension is what I used. 
 
 Importing Pandas
 ```
